@@ -1,0 +1,16 @@
+# Credentials
+.env
+
+# Logs
+*.log
+
+# Error screenshots
+*.png
+
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
