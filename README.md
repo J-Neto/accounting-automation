@@ -4,6 +4,8 @@ Automates the entry of financial transactions into an accounting system using Py
 
 Instead of manually entering each transaction, this script reads a spreadsheet and automatically fills in the data in the system — reducing human error and saving time.
 
+> 💡 Project developed during the Playwright course by [DevAprender](https://www.youtube.com/@DevAprender), adapted to solve a real-world problem.
+
 ---
 
 ## 🎯 Who is this for?
