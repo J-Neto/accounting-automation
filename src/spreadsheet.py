@@ -1,7 +1,7 @@
 import logging
 from datetime import datetime, date
 from openpyxl import load_workbook
-from transactions import Transaction
+from src.transactions import Transaction
 
 logger = logging.getLogger(__name__)
 

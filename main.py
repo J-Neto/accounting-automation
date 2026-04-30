@@ -17,7 +17,7 @@ from src.spreadsheet import read_spreadsheet
 from src.transactions import run_transactions
 
 logging.basicConfig(
-    filename='logs/exec.log'
+    filename='logs/exec.log',
     level=logging.INFO,
     format='%(asctime)s %(levelname)s [%(name)s] %(message)s',
     encoding='utf-8'
